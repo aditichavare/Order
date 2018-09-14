@@ -10,7 +10,7 @@ server:
       hibernate:
         ddl-auto: update
     datasource:
-      url: jdbc:postgresql://127.0.0.1:5432/Userdb
+      url: jdbc:postgresql://127.0.0.1:5432/orderdb
       data-username: postgres
       data-password: postgres
       driver-class-name: org.postgresql.Driver
